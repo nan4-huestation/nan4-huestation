@@ -1,0 +1,12 @@
+- 👋 Hi, I’m Ana Carolina Franco 
+- 👀 I’m interested in Tecnologia 
+- 🌱 I’m currently learning Robotica 
+- 💞️ I’m looking to collaborate on Taís 
+- 📫 How to reach me Cocaia/Jardim Adriana 
+- 😄 Pronouns: ela/dela
+- ⚡ Fun fact: eu sou boa com jogos 
+
+<!---
+nan4-huestation/nan4-huestation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
