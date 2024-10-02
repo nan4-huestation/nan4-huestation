@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ana Carolina Franco 
 - 👀 I’m interested in Tecnologia 
 - 🌱 I’m currently learning Robotica 
-- 💞️ I’m looking to collaborate on Taís 
+- 💞️ I’m looking to collaborate on Gitchub 
 - 📫 How to reach me Cocaia/Jardim Adriana 
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: eu sou boa com jogos 
