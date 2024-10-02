@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tecnologia 
 - 🌱 I’m currently learning Robotica 
 - 💞️ I’m looking to collaborate on Gitchub 
-- 📫 How to reach me estudando tecnologia 
+- 📫 How to reach me pelo meu whatsapp 
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: eu sou boa com jogos 
 
